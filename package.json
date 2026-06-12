@@ -1,0 +1,16 @@
+{
+  "name": "node-express-sample",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sample Node + Express app used by Splicer's real-Railway e2e tests (#1041).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
