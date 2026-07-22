@@ -1,6 +1,6 @@
 # node-express-sample
 
-Sample Node + Express app used by Splicer's real-Railway e2e test rotation (#1041).
+Sample Node + Express app used by TeamCoder's real-Railway e2e test rotation (#1041).
 
 - `GET /` — hello-world
 - `GET /healthz` — liveness
